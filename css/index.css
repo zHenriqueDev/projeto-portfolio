@@ -5,23 +5,19 @@ header  {
     padding: 10px 20px;
     justify-content: space-between;
 
-
-
-
 }
    nav{
     text-align: right;
     
 }
-
 a::before{
     content: "";
     background-color: #828282;
     width: 10px;
     height: 10px;
     margin-right: 10px;
-}
-    
+
+}   
 a{
     display: inline-flex;
     align-items: center;
@@ -33,7 +29,6 @@ a{
     margin-right: 30px;
 
 }
-
 #button {
     display: inline-block;   
     background-color: #828282;
@@ -46,15 +41,9 @@ a{
     transition: 0.8s linear ;
     
 }
-
 #button:hover{
     transform: scale(1.070);
     background-color: rgba(123, 145, 225, 0.708);
     opacity: 0.7;
     cursor: grab;
-    
-
-
-
-
 }
