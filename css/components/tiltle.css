@@ -5,3 +5,10 @@
     text-shadow: 4px 4px 0px black;
 
 }
+
+.title.-second{
+    color:  aqua;
+    text-shadow: none;
+    text-align: center;
+
+}
